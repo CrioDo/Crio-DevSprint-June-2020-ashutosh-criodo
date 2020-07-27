@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/css/main.5db1380d.chunk.css",
+    "main.js": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/js/main.f0edaccb.chunk.js",
+    "main.js.map": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/js/main.f0edaccb.chunk.js.map",
+    "runtime-main.js": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/js/runtime-main.a23cce10.js",
+    "runtime-main.js.map": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/js/runtime-main.a23cce10.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.cafc342c.chunk.js": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/js/2.cafc342c.chunk.js",
+    "static/js/2.cafc342c.chunk.js.map": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/js/2.cafc342c.chunk.js.map",
+    "index.html": "/Crio-DevSprint-June-2020-ashutosh-criodo/index.html",
+    "precache-manifest.ca6c249feeb1981803786e42e7db1730.js": "/Crio-DevSprint-June-2020-ashutosh-criodo/precache-manifest.ca6c249feeb1981803786e42e7db1730.js",
+    "service-worker.js": "/Crio-DevSprint-June-2020-ashutosh-criodo/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.cafc342c.chunk.js.LICENSE.txt": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/js/2.cafc342c.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/Crio-DevSprint-June-2020-ashutosh-criodo/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a23cce10.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.cafc342c.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.f0edaccb.chunk.js"
+  ]
+}
